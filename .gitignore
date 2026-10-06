@@ -1,0 +1,14 @@
+# Local browser checks, screenshots, profiles, and downloads
+.preview/
+
+# Source references; the website's artwork is included in assets/
+/Rashmika and Mihira Wedding Banner (1).png
+/WhatsApp Image 2026-09-04 at 3.52.18 PM.jpeg
+
+# Local configuration and operating-system files
+.env
+.env.*
+!.env.example
+node_modules/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//A Beautiful Beginning//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:beautiful-beginning-20261105@wedding-invitation.local
+DTSTAMP:20260908T000000Z
+DTSTART:20261105T033000Z
+SUMMARY:Rashmika & Mihira's Wedding
+LOCATION:Wave & Lake Hotel\, Ragama\, Sri Lanka
+DESCRIPTION:Join us to celebrate the wedding of Rashmika and Mihira.\n
+ Thursday\, November 5\, 2026.\n9:00 AM onwards (Sri Lanka time).\n
+ Poruwa Ceremony at 10:00 AM.\nWave & Lake Hotel\, Ragama.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Rashmika & Mihira's wedding celebration is tomorrow.
+END:VALARM
+END:VEVENT
+END:VCALENDAR
